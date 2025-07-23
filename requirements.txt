@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+pandas
+python-dotenv
+httpx
+matplotlib
+seaborn
+plotly
+streamlit
+numpy
+scipy
+pytz
+fastapi-cache2
+asyncio
